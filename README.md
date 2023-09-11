@@ -31,7 +31,6 @@
 
 
 ## OBRIGADO POR VISITAR MEU PERFIL :)
-<picture>
-  <source align="center" height="180" width="200" media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/55924678?s=400&u=27f60a516bf82200168188f60fd8a6ba4235df3c&v=4">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+<div style="display: inline_block"><br>
+  <img align="right" alt="nk-GIF" height="200" width="200" src="https://github.com/NicollasRezende/IMAGE/blob/main/Design%20sem%20nome(1).gif">
+</div>
