@@ -1,6 +1,6 @@
 ## UP, eu sou Nkz_dev ou Nicollas me chame como quiser
-- 🔭 Sou BackEnd Dev, estou trabalhando em um projeto de software de automaçao de vendas;
-- 🌱 Aprendendo mais sobre minha linguagem Python
+- 🔭 Sou BackEnd Dev;
+- 🌱 Aprendendo mais sobre minha linguagem Python;
 - 📫 email de contato nkzdevs@gmail.com
 
 
