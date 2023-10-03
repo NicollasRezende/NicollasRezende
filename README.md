@@ -29,6 +29,7 @@
 ## MEUS STATUS:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicollasRezende&show_icons=true&theme=dracula)
 
+- isso nao mostra tudo apenas o que eu deixei publico o restante e privado 🤫
 
 ## OBRIGADO POR VISITAR MEU PERFIL :)
 <div style="display: inline_block"><br>
