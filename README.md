@@ -1,4 +1,4 @@
-## UP, eu sou Nkz_dev ou Nicollas me chame como quiser
+## UP, eu sou Nikz ou Nicollas me chame como quiser
 - 🔭 Sou BackEnd Dev;
 - 🌱 Sempre buscando aprender mais;
 - 📫 email de contato nicollaspereirarezende@outlook.com.br
