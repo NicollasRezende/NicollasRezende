@@ -1,5 +1,5 @@
 ## UP, eu sou Nikz ou Nicollas me chame como quiser
-- 🔭 Sou BackEnd Dev;
+- 🔭 Sou Back-End/Front Dev;
 - 🌱 Sempre buscando aprender mais;
 - 📫 email de contato nicollaspereirarezende@outlook.com.br
 
