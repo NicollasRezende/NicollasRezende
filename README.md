@@ -6,21 +6,21 @@
 
 ## Algumas das minhas ferramentas:
 <div style="display: inline_block"><br>
-  <img align="center" alt="nk-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="nk-django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
-  <img align="center" alt="nk-flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
-  <img align="center" alt="nk-numpy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg">
+  <img align="center" alt="nk-Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="nk-django" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
+  <img align="center" alt="nk-flask" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
+  <img align="center" alt="nk-numpy" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg">
   
-  <img align="center" alt="nk-javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="nk-nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg">
-  <img align="center" alt="nk-nodemon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-line.svg">  
-  <img align="center" alt="nk-express" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
-  <img align="center" alt="nk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="nk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="nk-javascript" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="nk-nodejs" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg">
+  <img align="center" alt="nk-nodemon" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-line.svg">  
+  <img align="center" alt="nk-express" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
+  <img align="center" alt="nk-HTML" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="nk-CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="center" alt="nk-DOCKER" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="nk-postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="nk-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="nk-DOCKER" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="nk-postgresql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="nk-mysql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 
   
 </div>
