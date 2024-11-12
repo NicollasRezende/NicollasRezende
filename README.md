@@ -45,6 +45,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicollasRezende&show_icons=true&theme=dracula)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Wanderleyjuniior&theme=dracula&hide_border=false)<br/>
+
+
 > *Nota: Isso mostra apenas o que deixei público; o restante é privado. 🤫*
 
 ## 🙏 Obrigado por visitar meu perfil! 😊
