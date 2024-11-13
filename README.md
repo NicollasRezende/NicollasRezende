@@ -52,7 +52,7 @@
 
 
 
-> *Nota: Isso mostra apenas o que deixei público; o restante é privado. 🤫*https://github.com/anuraghazra/github-readme-stats
+> *Nota: Isso mostra apenas o que deixei público; o restante é privado. 🤫
 
 ## 🙏 Obrigado por visitar meu perfil! 😊
 ![](https://visitcount.itsvg.in/api?id=NicollasRezende&icon=0&color=0)
