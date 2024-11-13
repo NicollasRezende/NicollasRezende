@@ -48,7 +48,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NicollasRezende&theme=dracula&hide_border=false)<br/>
 
 
-![](https://github.com/NicollasRezende/github-readme-stats)
 
 > *Nota: Isso mostra apenas o que deixei público; o restante é privado. 🤫*https://github.com/anuraghazra/github-readme-stats
 
