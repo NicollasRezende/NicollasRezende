@@ -18,6 +18,7 @@
   <img align="center" alt="nk-nodejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg">
   <img align="center" alt="nk-nodemon" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-line.svg">  
   <img align="center" alt="nk-express" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
+  <img align="center" alt="nk-express" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="nk-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="nk-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nk-DOCKER" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
