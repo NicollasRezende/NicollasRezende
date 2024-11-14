@@ -44,7 +44,7 @@
 
 ## 📊 Meus Status no GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicollasRezende&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=NicollasRezende&show_icons=true&theme=dracula)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NicollasRezende&theme=dracula&hide_border=false)<br/>
 
