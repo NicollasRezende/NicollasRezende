@@ -35,11 +35,8 @@
 
 ## 🚀 Meus Projetos
 
-<div> 
-  <a href="https://github.com/NicollasRezende/Tudo" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=NicollasRezende&repo=Tudo)](https://github.com/NicollasRezende/Tudo)
+
 
 ## 📊 Meus Status no GitHub
 
