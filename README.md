@@ -40,7 +40,7 @@
 
 ## 📊 Meus Status no GitHub
 
-![](https://github-readme-stats.vercel.app/api?username=NicollasRezende&show_icons=true&theme=dracula) [![](https://github-readme-streak-stats-opal-eight.vercel.app?user=NicollasRezende&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=NicollasRezende&show_icons=true&theme=dracula)[![](https://github-readme-streak-stats-opal-eight.vercel.app?user=NicollasRezende&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasRezende&langs_count=8&layout=compact&hide_progress=true&theme=dracula)
 
