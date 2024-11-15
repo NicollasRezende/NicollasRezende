@@ -35,20 +35,16 @@
 
 ## 🚀 Meus Projetos
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=NicollasRezende&repo=Tudo)](https://github.com/NicollasRezende/Tudo)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=NicollasRezende&repo=Tudo&theme=dracula&border=false)](https://github.com/NicollasRezende/Tudo)
 
 
 ## 📊 Meus Status no GitHub
 
-![](https://github-readme-stats.vercel.app/api?username=NicollasRezende&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=NicollasRezende&show_icons=true&theme=dracula) [![](https://github-readme-streak-stats-opal-eight.vercel.app?user=NicollasRezende&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=NicollasRezende&theme=dracula&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasRezende&langs_count=8&layout=compact&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasRezende&langs_count=8&layout=compact&hide_progress=true&theme=dracula)
 
 
-
-> *Nota: Isso mostra apenas o que deixei público; o restante é privado. 🤫
 
 ## 🙏 Obrigado por visitar meu perfil! 😊
 ![](https://visitcount.itsvg.in/api?id=NicollasRezende&icon=0&color=0)
