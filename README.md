@@ -42,10 +42,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=NicollasRezende&show_icons=true&theme=dracula)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=NicollasRezende&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NicollasRezende&theme=dracula&hide_border=false)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasRezende&size_weight=0.5&count_weight=0.5)](https://github.com/NicollasRezende/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasRezende&langs_count=8&layout=compact&hide_progress=true)
 
 
 
