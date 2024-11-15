@@ -15,7 +15,6 @@
   <img align="center" alt="nk-numpy" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg">
 
   <img align="center" alt="nk-javascript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="nk-nodejs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg">
   <img align="center" alt="nk-nodemon" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-line.svg">  
   <img align="center" alt="nk-express" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
   <img align="center" alt="nk-express" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
