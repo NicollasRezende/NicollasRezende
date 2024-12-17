@@ -1,14 +1,26 @@
+
 ---
 
-# Olá! Eu sou o Nikz (ou Nicollas) — fique à vontade para me chamar como preferir! 👋
+# 🚀 **Olá! Eu sou o Nikz (ou Nicollas)** 👋  
+> *Fique à vontade para me chamar como preferir!*  
 
-- 🔭 **Desenvolvedor Back-End e Front-End**
-- 🌱 **Aprendendo sempre e buscando novas oportunidades**
-- 📫 **Entre em contato:** [nicollaspereirarezende@outlook.com.br](mailto:nicollaspereirarezende@outlook.com.br)
+---
 
-## 🛠️ Minhas Ferramentas Favoritas
+### 🎯 **Quem sou eu?**  
 
-<div style="display: inline_block"><br>
+
+- 🔧 **Desenvolvedor Back-End e Front-End** apaixonado por tecnologia.  
+- 🌱 **Sempre aprendendo e buscando novas oportunidades.**  
+- 📬 **Contato direto:** [nicollaspereirarezende@outlook.com.br](mailto:nicollaspereirarezende@outlook.com.br)
+
+
+---
+
+## 🛠️ **Minhas Ferramentas e Tecnologias**  
+
+<div style="margin: 10px 0;">
+  
+<div style="display: inline_block" style="margin: 10px 0;"><br>
   <img align="center" alt="nk-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="nk-django" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="nk-flask" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
@@ -23,29 +35,46 @@
   <img align="center" alt="nk-DOCKER" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="nk-postgresql" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="nk-mysql" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+
 </div>
 
-## 🌐 Minhas Redes
-
-<div> 
-  <a href="https://www.instagram.com/nikz_yo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:nicollaspereirarezende@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/nicollas-pereira-562689283/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>   
 </div>
 
-## 🚀 Meus Projetos
+---
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=NicollasRezende&repo=Tudo&theme=dracula&border=false)](https://github.com/NicollasRezende/Tudo)
+## 🌐 **Minhas Redes Sociais**  
 
+<div align="center">
 
-## 📊 Meus Status no GitHub
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikz_yo/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicollas-pereira-562689283/)  
+[![E-mail](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicollaspereirarezende@outlook.com.br)  
 
-![](https://github-readme-stats.vercel.app/api?username=NicollasRezende&show_icons=true&theme=dracula)[![](https://github-readme-streak-stats-opal-eight.vercel.app?user=NicollasRezende&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasRezende&langs_count=8&layout=compact&hide_progress=true&theme=dracula)
+---
 
+## 🚀 **Meus Projetos em Destaque**  
 
+[![Repo Tudo](https://github-readme-stats.vercel.app/api/pin/?username=NicollasRezende&repo=Tudo&theme=dracula&border=false)](https://github.com/NicollasRezende/Tudo)
 
-## 🙏 Obrigado por visitar meu perfil! 😊
-![](https://visitcount.itsvg.in/api?id=NicollasRezende&icon=0&color=0)
+---
 
+## 📊 **Estatísticas do GitHub**  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NicollasRezende&theme=dracula&hide_border=false&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasRezende&langs_count=8&layout=compact&hide_progress=true&theme=dracula)  
+
+---
+
+## 💖 **Obrigado por visitar meu perfil!** 😊  
+<div align="center">  
+<img src="https://visitcount.itsvg.in/api?id=NicollasRezende&icon=0&color=0" alt="Contador de Visitas">  
+</div>
+
+---
+
+## ⚡ **"Programar é transformar ideias em realidade!"**  
+
+---
