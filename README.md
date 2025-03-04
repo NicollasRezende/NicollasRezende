@@ -69,9 +69,6 @@
 ---
 
 ## 💖 **Obrigado por visitar meu perfil!** 😊  
-<div align="center">  
-<img src="https://visitcount.itsvg.in/api?id=NicollasRezende&icon=0&color=0" alt="Contador de Visitas">  
-</div>
 
 ---
 
