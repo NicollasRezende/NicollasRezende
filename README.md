@@ -125,8 +125,9 @@ RPG de texto em Python com sistemas de combate, inventário, missões e explora�
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=NicollasRezende&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasRezende&langs_count=8&layout=compact&theme=dracula&hide_border=true)
+![Followers](https://img.shields.io/github/followers/NicollasRezende?style=for-the-badge&logo=github&label=followers&color=8957e5&labelColor=161b22)
+![abacapython no PyPI](https://img.shields.io/pypi/v/abacapython?style=for-the-badge&logo=pypi&logoColor=white&label=abacapython&color=3775A9&labelColor=161b22)
+![Downloads](https://img.shields.io/pypi/dm/abacapython?style=for-the-badge&logo=pypi&logoColor=white&label=downloads/mês&color=3775A9&labelColor=161b22)
 
 </div>
 
