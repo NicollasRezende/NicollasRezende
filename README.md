@@ -134,7 +134,7 @@ inteiramente na sua máquina via Ollama.
 ### [IA-RESUMER](https://github.com/NicollasRezende/IA-RESUMER) · *jun/2025*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white)
 
 Pipeline de transcrição e resumo de áudio/vídeo. Whisper transcreve **com detecção de problemas
@@ -144,7 +144,7 @@ arquivo e gera relatório de qualidade da transcrição.
 ### [GIF-NK-Hub-](https://github.com/NicollasRezende/GIF-NK-Hub-) · *jun/2025* · [demo](https://gif-nk-hub.vercel.app)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 Hub de GIFs em front-end puro — sem framework, sem build step.
@@ -223,7 +223,7 @@ save/load, cada sistema no seu lugar.
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B4A?style=flat-square)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square)
 
 </td></tr>
 <tr><td><b>Mobile</b></td><td>
@@ -256,16 +256,24 @@ save/load, cada sistema no seu lugar.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicollasRezende/NicollasRezende/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NicollasRezende/NicollasRezende/output/snake.svg">
-  <img alt="Gráfico de contribuições" src="https://raw.githubusercontent.com/NicollasRezende/NicollasRezende/output/snake.svg">
-</picture>
+<img src="https://ghchart.rshah.org/8957e5/NicollasRezende" alt="Gráfico de contribuições" width="100%">
+
+<!--
+  A animação da cobrinha comendo as contribuições já está configurada em
+  .github/workflows/snake.yml, mas o GitHub Actions está bloqueado nesta conta
+  por uma pendência de cobrança. Assim que isso for resolvido, rode o workflow
+  ("snake" > Run workflow) e troque o <img> acima por este bloco:
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicollasRezende/NicollasRezende/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NicollasRezende/NicollasRezende/output/snake.svg">
+    <img alt="Gráfico de contribuições" src="https://raw.githubusercontent.com/NicollasRezende/NicollasRezende/output/snake.svg">
+  </picture>
+-->
 
 <br><br>
 
 ![Followers](https://img.shields.io/github/followers/NicollasRezende?style=for-the-badge&logo=github&label=followers&color=8957e5&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/NicollasRezende?style=for-the-badge&logo=github&label=stars&color=d29922&labelColor=0d1117)
 ![Downloads](https://img.shields.io/pypi/dm/abacapython?style=for-the-badge&logo=pypi&logoColor=white&label=abacapython/mês&color=3775A9&labelColor=0d1117)
 
 </div>
