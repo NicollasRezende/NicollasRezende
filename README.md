@@ -2,10 +2,10 @@
 
 <h1>Nicollas Rezende</h1>
 
-<p><b>Back-end · Engenharia de Dados · Sistemas de baixo nível</b></p>
+<p><b>Desenvolvedor Full Stack</b> · Java · Python · React · Next.js · Liferay</p>
 
-<p><i>Do pipeline que trata milhões de eventos sujos no BigQuery<br>
-ao emulador de Game Boy escrito byte a byte em Kotlin.</i></p>
+<p><i>Sistemas corporativos e portais gov.br de ponta a ponta —<br>
+e, nas horas vagas, um emulador de Game Boy escrito byte a byte.</i></p>
 
 <br>
 
@@ -18,22 +18,37 @@ ao emulador de Game Boy escrito byte a byte em Kotlin.</i></p>
 
 ---
 
-## O que eu construo
+<div align="center">
 
-Gosto de problema que não aceita gambiarra.
+<img src="assets/link.gif" alt="Link caminhando" width="380">
 
-Emulador só serve se for **preciso ao nível de ciclo** — ou o jogo trava numa tela preta e você
-não sabe por quê. Pipeline de dados só serve se sobreviver a **retry duplicado, timestamp
-invertido e ID órfão** — porque é assim que o dado chega na vida real, não como no tutorial.
-SDK só serve se tiver **tipagem estrita, retry com backoff e webhook verificado em tempo
-constante** — senão é só um wrapper de `requests`.
+</div>
 
-É esse tipo de rigor que eu procuro no que construo. Os projetos abaixo estão em ordem do mais
-recente para o mais antigo.
+## Sobre mim
+
+Desenvolvedor Full Stack com **3+ anos** construindo sistemas corporativos e portais
+governamentais de ponta a ponta — da modelagem do back-end até a interface que o cidadão usa.
+
+Trabalho principalmente com **Java** (Liferay — Service Builder, Portlets, Service Wrappers —
+e Spring Boot) e **Python** (FastAPI, Flask, Django), com **React** e **Next.js** no front.
+Na prática isso vira portal gov.br com autenticação via **Keycloak e CKPE**, customização de
+Liferay para requisito de órgão público, automação e scraping em larga escala, migração de
+dados e bot de atendimento no WhatsApp integrado com IA.
+
+Atuo no ciclo inteiro: da concepção até a produção, com foco em performance e escalabilidade.
+
+<table>
+<tr><td>🥇</td><td><b>1º lugar</b> — Brasília+ TI 2025 · Caixa Econômica Federal</td></tr>
+<tr><td>🥈</td><td><b>2º lugar</b> — Hackathon Transpetro / Petrobras</td></tr>
+<tr><td>🎓</td><td>Bacharelado em Engenharia de Software · Anhanguera (2024 → 2027)</td></tr>
+<tr><td>📫</td><td><b>Aberto a oportunidades</b> como Full Stack ou Back-end</td></tr>
+</table>
 
 ---
 
 ## Projetos
+
+Do mais recente para o mais antigo.
 
 ### [urban-mobility-analytics](https://github.com/NicollasRezende/urban-mobility-analytics) · *ago/2026*
 
@@ -205,7 +220,10 @@ save/load, cada sistema no seu lugar.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Liferay](https://img.shields.io/badge/Liferay_DXP-0B63CE?style=flat-square)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 </td></tr>
@@ -226,6 +244,15 @@ save/load, cada sistema no seu lugar.
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square)
 
 </td></tr>
+<tr><td><b>Integrações</b></td><td>
+
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+![gov.br](https://img.shields.io/badge/gov.br_·_CKPE-1351B4?style=flat-square)
+![OAuth2](https://img.shields.io/badge/OAuth2_·_JWT-EB5424?style=flat-square)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka_·_RabbitMQ-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+</td></tr>
 <tr><td><b>Mobile</b></td><td>
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -243,6 +270,8 @@ save/load, cada sistema no seu lugar.
 <tr><td><b>Infra</b></td><td>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 ![Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
