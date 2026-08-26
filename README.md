@@ -4,10 +4,11 @@
 
 <p><b>Desenvolvedor Full Stack</b> · Java · Python · React · Next.js · Liferay</p>
 
-<p><i>Sistemas corporativos e portais gov.br de ponta a ponta —<br>
-e, nas horas vagas, um emulador de Game Boy escrito byte a byte.</i></p>
-
 <br>
+
+<img src="https://i.giphy.com/LdeLeNQFbbNOAQBgTo.gif" alt="Link carregado por uma cucco em Ocarina of Time" width="170">
+
+<br><br><br>
 
 <a href="https://nikz.vercel.app"><img src="https://img.shields.io/badge/Portfólio-nikz.vercel.app-8957e5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfólio"></a>
 <a href="https://www.linkedin.com/in/nicollas-rezende/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4=&logoColor=white&labelColor=0d1117" alt="LinkedIn"></a>
@@ -18,24 +19,15 @@ e, nas horas vagas, um emulador de Game Boy escrito byte a byte.</i></p>
 
 ---
 
-<div align="center">
-
-<img src="assets/link.gif" alt="Link caminhando" width="380">
-
-</div>
-
 ## Sobre mim
 
-Desenvolvedor Full Stack com **3+ anos** construindo sistemas corporativos e portais
-governamentais de ponta a ponta — da modelagem do back-end até a interface que o cidadão usa.
+Desenvolvedor back-end com 3+ anos de experiência em sistemas corporativos e portais
+governamentais, atuando também no front quando o projeto pede.
 
-Trabalho principalmente com **Java** (Liferay — Service Builder, Portlets, Service Wrappers —
-e Spring Boot) e **Python** (FastAPI, Flask, Django), com **React** e **Next.js** no front.
-Na prática isso vira portal gov.br com autenticação via **Keycloak e CKPE**, customização de
-Liferay para requisito de órgão público, automação e scraping em larga escala, migração de
-dados e bot de atendimento no WhatsApp integrado com IA.
-
-Atuo no ciclo inteiro: da concepção até a produção, com foco em performance e escalabilidade.
+Trabalho principalmente com **Java** (Spring Boot, Liferay) e **Python** (FastAPI, Flask,
+Django), e no front-end com **React** e **Next.js**. Tenho experiência com PostgreSQL, MongoDB,
+Redis, Docker, Kubernetes, mensageria e integração de APIs REST, além de autenticação com
+Keycloak, OAuth2 e gov.br/CKPE.
 
 <table>
 <tr><td>🥇</td><td><b>1º lugar</b> — Brasília+ TI 2025 · Caixa Econômica Federal</td></tr>
