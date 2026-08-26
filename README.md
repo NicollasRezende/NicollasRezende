@@ -59,7 +59,7 @@ Quality → API → dashboard → assistente de IA generativa. Nenhuma etapa é 
 ![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Latência](https://img.shields.io/badge/resposta_<100ms-brightgreen?style=flat-square)
+![Latência](https://img.shields.io/badge/resposta_%3C100ms-brightgreen?style=flat-square)
 
 Leitor NFC **universal**: encostou a tag, o app extrai tudo que o chip responder — sem filtrar
 por tipo de cartão, sem exigir cadastro prévio — e manda o dump inteiro por WebSocket para um
